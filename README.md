@@ -1,1 +1,1 @@
-This is a simple program for learning and understanding polymorphism in Java.
+OOP fundamentals polymorphism - Java
